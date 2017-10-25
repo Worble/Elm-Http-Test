@@ -1,0 +1,11 @@
+.messages{
+    list-style-type: none;
+}
+
+.messages .author{
+    font-weight: bold;
+}
+
+.messages .message{
+    padding-left: 2em;
+}
